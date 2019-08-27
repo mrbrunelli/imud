@@ -1,0 +1,63 @@
+body {
+	background-image: url(imagens/background.png);
+	background-size: 100px;
+	font-family: Arial, Tahoma, Verdana;
+	margin: 25px;
+}
+
+div {
+	background-color: #fff;
+	width: 800px;
+	border: 5px solid #ccc;
+	box-shadow: 1px 1px 15px #ccc;
+	margin: auto;
+}
+
+nav {
+	width: 500px;
+	float: right;
+	margin-top: 50px;
+	text-align: center;
+}
+
+nav a {
+	color: #ccc;
+	text-decoration: none;
+	margin: 5px;
+	font-size: 19px;
+}
+
+nav a:hover {
+	color: darkred;
+	transition: all 0.5s;
+}
+
+.icone {
+	width: 200px;
+}
+
+div img {
+	width: 800px;
+}
+
+h1 {
+	text-align: center;
+	margin: 20px;
+}
+
+p {
+	text-align: justify;
+	margin: 20px;
+	font-size: 19px;
+}
+
+footer {
+	text-align: center;
+	background: black;
+	color: white;
+	height: 200px;
+}
+
+footer p {
+	padding-top: 75px;
+}

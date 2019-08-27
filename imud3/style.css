@@ -1,0 +1,42 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background: #fff;
+	font-family: Arial, Tahoma, Verdana;
+}
+
+header {
+	background: #000;
+}
+
+nav {
+	float: right;
+}
+
+nav ul li {
+	list-style: none;
+	display: inline;
+}
+
+nav ul li a {
+	color: #fff;
+	text-decoration: none;
+	float: left;
+	padding: 10px;
+	
+}
+
+nav ul li a:hover {
+	color: green;
+}
+
+.logoimud {
+	width: 120px;
+}
+
+.banner {
+	width: 1000px;
+}
